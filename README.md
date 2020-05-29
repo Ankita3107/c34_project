@@ -1,1 +1,2 @@
-# c34_project
+# synchronousBallMovement
+Ball moving synchronously
